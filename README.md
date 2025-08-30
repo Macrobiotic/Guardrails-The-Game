@@ -1,3 +1,4 @@
+![Guardrails: The Game](cover.png)
 # Guardrails: The Game
 
 *A game of dancing on the edge of AI safety rails.*
